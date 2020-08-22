@@ -25,6 +25,7 @@ public class ExpandedForm {
         for (int i = 1; i < numArray.length; i++) {
             if (!numArray[i].equals("0")) {
                 result = true;
+                break;
             }
         }
         return result;
