@@ -1,7 +1,5 @@
 package kata.kyu6;
 
-import java.util.Arrays;
-
 public class EncryptThis {
 
     public static String encryptThis(String text) {
