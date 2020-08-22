@@ -3,8 +3,6 @@ package kata.kyu6;
 import junit.framework.TestCase;
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
-
 public class ExpandedFormTest extends TestCase {
 
     @Test
